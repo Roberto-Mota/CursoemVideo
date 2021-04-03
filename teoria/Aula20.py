@@ -1,0 +1,6 @@
+def mensagem(msg):
+    print('-' * 30)
+    print(msg)
+    print('-' * 30)
+
+mensagem('Eu gosto de jiló!')
